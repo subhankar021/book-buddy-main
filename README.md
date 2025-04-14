@@ -21,7 +21,7 @@ BookBuddy is a full-stack web application that connects book owners and seekers,
 
 1. Clone the repository:
    \`\`\`
-   git clone https://github.com/yourusername/book-buddy.git
+   git clone https://github.com/subhankar021/book-buddy-main.git
    cd book-buddy
    \`\`\`
 

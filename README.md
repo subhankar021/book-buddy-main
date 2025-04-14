@@ -64,6 +64,15 @@ BookBuddy is a full-stack web application that connects book owners and seekers,
 - ⚠️ Image upload: In a production environment, this would connect to a storage service
 - ⚠️ Real-time messaging: Currently simulated
 
+## Bonus Features 
+- You can edit or remove the listed books
+- Filter listings by Genre/Location
+- Add Book cover (image upload optional)
+  
+## AI used
+
+- Used Ai like ChatGpt
+ 
 ## Technologies Used
 
 - Next.js 14

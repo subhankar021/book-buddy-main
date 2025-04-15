@@ -81,9 +81,4 @@ BookBuddy is a full-stack web application that connects book owners and seekers,
 - Tailwind CSS
 - shadcn/ui components
 
-## License
 
-MIT
-\`\`\`
-
-Now, let's update the book data to use Indian locations:
